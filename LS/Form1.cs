@@ -23,12 +23,15 @@ namespace LS
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            label6.Text = DateTime.Now.ToString("t");
+            label8.Text = DateTime.Now.ToString("dddd, MMMM d yyyy");
+
+            groupBox1.Font = new Font(textBox1.Font, FontStyle.Bold);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ye = textBox1.Text + textBox2.Text;
+            string ye = textBox1.Text + dateTimePicker1.Text;
             string path = @"F:\Projects\GitHub\Loging System\LS\All Logs\" + ye + ".txt";
             TextWriter tw = new StreamWriter(path);
             if (!File.Exists(path))
@@ -36,21 +39,22 @@ namespace LS
                 File.Create(path);
                 tw.Close();
             }
-            label1.Text = ye;
             tw.Close();
-            
+
+            groupBox1.Font = new Font(textBox1.Font, FontStyle.Regular);
+            groupBox2.Font = new Font(textBox1.Font, FontStyle.Bold);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            string ye = textBox1.Text + textBox2.Text;
+            string ye = textBox1.Text + dateTimePicker1.Text;
             //change logs to the folder directory of your choice
             string path = @"F:\Projects\GitHub\Loging System\LS\All Logs\" + ye + ".txt";
             TextWriter tw = new StreamWriter(path);
             //tw.Close();
             if (File.Exists(path))
             {
-                tw.WriteLine(textBox1.Text + textBox2.Text);
+                tw.WriteLine(textBox3.Text);
                 tw.Close();
             }
         }
