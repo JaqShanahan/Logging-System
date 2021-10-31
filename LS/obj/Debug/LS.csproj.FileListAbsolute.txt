@@ -1,0 +1,23 @@
+F:\Projects\Coding\Loging System\LS\LS\bin\Debug\LS.exe.config
+F:\Projects\Coding\Loging System\LS\LS\bin\Debug\LS.exe
+F:\Projects\Coding\Loging System\LS\LS\bin\Debug\LS.pdb
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.csproj.AssemblyReference.cache
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.Form1.resources
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.Properties.Resources.resources
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.csproj.GenerateResource.cache
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.csproj.CoreCompileInputs.cache
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.exe
+F:\Projects\Coding\Loging System\LS\LS\obj\Debug\LS.pdb
+F:\Software\Computer Applications\Coded Programs\Logging System\AppData\LS.exe.config
+F:\Software\Computer Applications\Coded Programs\Logging System\AppData\LS.exe
+F:\Software\Computer Applications\Coded Programs\Logging System\AppData\LS.pdb
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.csproj.AssemblyReference.cache
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.Form1.resources
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.Properties.Resources.resources
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.csproj.GenerateResource.cache
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.csproj.CoreCompileInputs.cache
+F:\Projects\GitHub\Loging System\LS\LS.exe.config
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.exe
+F:\Projects\GitHub\Loging System\LS\LS\obj\Debug\LS.pdb
+F:\Projects\GitHub\Loging System\LS\LS.exe
+F:\Projects\GitHub\Loging System\LS\LS.pdb
